@@ -6,7 +6,7 @@
 
 ## Specification
 
-Recall the [Numpy/Pandas Slides](http://slides.com/profdressel/numpy-and-pandas-overview/) that introduce the `numpy` and `pandas` libraries and how to use them.
+Recall the [Numpy/Pandas Slides](http://slides.com/profdressel/numpy-and-pandas-overview/) that introduce the `numpy` and `pandas` libraries and how to use them. Note that I have also placed a number of "cheat sheets" in this repository for reference in case they are useful. I recommend saving them to a place you can find them later (or printing them out).
 
 In this assignment, we will start going deeper into the tools we have already learned. Let us practice thinking in arrays more directly by understanding the derivative of a function in a different way than what you are used to.
 

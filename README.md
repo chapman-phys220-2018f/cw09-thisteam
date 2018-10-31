@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Royal Cuevas**
 
 ## Specification
 
@@ -31,7 +31,7 @@ The lowest-order error is second-order in $h$, since the first-order error cance
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
 
-**CHANGEME**
+**This assignment helped to learn about matrices in python as well as some LaTeX formatting since I never really use that. It was an interesting problem, but took a bit of time to complete since it was during midterms.**
 
 ## Honor Pledge
 
@@ -40,6 +40,9 @@ I pledge that all the work in this repository is my own with only the following 
 * Content of starter files supplied by the instructor;
 * Code borrowed from another source, documented with correct attribution in the code and summarized here.
 
+https://mail.python.org/pipermail/numpy-discussion/2017-January/076388.html
+for diagonal without for loops
+
 Signed,
 
-**YOURNAMES**
+**Royal Cuevas and Alley Busick**
